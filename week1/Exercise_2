@@ -1,0 +1,9 @@
+/*
+
+Create function that returns void and is called hello_cpp_london_uni(), this function does not take any arguments
+and it is called from main()
+
+function should display following text
+Hello C++ London University
+
+*/
