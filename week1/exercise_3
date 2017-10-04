@@ -1,0 +1,11 @@
+/*
+
+create function with name say_hello() that returns string, and takes 1 argument of type string
+inside function create local const variable that is set to Hello and retrun value should be local variable that display Hello 
+and argument that is passed to function with name of person. Function should be called from main()
+
+so output should be 
+
+Hello Tom
+
+*/
