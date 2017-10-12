@@ -1,1 +1,18 @@
 if you have questions about homework type them in the coment section
+
+Ekstra info from Tristan about exercises: 
+
+What I meant is that a Fibonacci sequence is started by two values, called the seeds. For example,
+
+0, 1, 1, 2, 3, 5, 8, 13, ...
+^  ^ <- seeds
+
+we can change these to any two numbers we want, for example we could start the sequence
+
+1, 3, 4, 7, 11, 18, 29, …
+^  ^ <- different seeds
+
+What I was basically wanting people do to is to learn about default function arguments :)
+
+
+For extension 2, yes, put them in a separate header and .cpp file — but also use CMake (or CLion) to create a library (see the add_library() CMake command).  This was intended as an exercise in learning a bit about CMake/CLion than C++ specifically.
